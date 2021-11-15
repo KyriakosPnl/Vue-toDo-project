@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "meeting with manager",
+      "day": "15/11 15:00",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "online seminar",
+      "day": "20/11 10:00",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "coffee with friends",
+      "day": "21/11 11:00",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
