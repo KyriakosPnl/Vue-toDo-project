@@ -1,4 +1,6 @@
-# vueprj
+# Vue-toDo-project
+
+#### This simple *Vue JS 3* project was built for learning purposes. The code is almost identical to the one used in this very useful video tutorial: https://www.youtube.com/watch?v=qZXt1Aom3Cs . Also uses *JSON-server* (https://www.npmjs.com/package/json-server) to generate an API that serves as backend. 
 
 ## Project setup
 ```
